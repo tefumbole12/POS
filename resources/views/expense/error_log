@@ -1,0 +1,4 @@
+[22-Oct-2022 07:47:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home1/beyonltd/beyond.beyondcompanyltd.com/resources/views/expense/index.blade.php:59
+Stack trace:
+#0 {main}
+  thrown in /home1/beyonltd/beyond.beyondcompanyltd.com/resources/views/expense/index.blade.php on line 59
